@@ -1,0 +1,23 @@
+body{
+        background-color:darkslategrey;
+        display: inline;
+        text-align: center; 
+        width: 100%;
+    }
+    h1{
+        background: lightslategray;
+        color:darkslategray;
+        display: inline;
+        border: solid 0px;
+        border-radius: 10px;
+        padding: 3px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    button{
+        background-color: lightslategray;
+        color:darkslategray;
+        display: inline;
+        border-radius: 8px;
+        border: solid 0px;
+        font-family: 'Times New Roman', Times, serif;
+    }
